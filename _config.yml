@@ -4,6 +4,6 @@ description: This is my portfolio showcasing my projects and skills.
 
 baseurl: "" # leave empty since this is your user page
 
-url: "https://MinceMaster1.github.io" # replace MinceMaster1 with your GitHub username
+url: "https://mincemaster1.github.io" # replace mincemaster1 with your GitHub username
 
 theme: jekyll-theme-merlot # replace “Time Machine” with your chosen theme from the list
